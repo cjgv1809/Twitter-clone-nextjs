@@ -20,6 +20,6 @@ export default NextAuth({
     // Customize the look and feel of NextAuth
     logo: "https://links.papareact.com/drq", // URL to an image to use as the logo
     brandColor: "#00ADED", // Color of the top bar
-    colorScheme: "auto", // Color scheme for the top bar
+    colorScheme: "light", // Color scheme for the top bar
   },
 })
