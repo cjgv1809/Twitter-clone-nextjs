@@ -1,23 +1,14 @@
-# Next.js + Tailwind CSS Example
+# Screenshots
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+- Desktop view
 
-## Deploy your own
+![Screenshot (82)](https://github.com/cjgv1809/Twitter-clone-nextjs/assets/57246901/cdd0f05b-3f3b-4ac5-9420-446c6a6f018a)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- Tablet view
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+![Screenshot (84)](https://github.com/cjgv1809/Twitter-clone-nextjs/assets/57246901/c71c602c-6f1e-4675-85ce-6bc0b20bee2a)
 
-## How to use
+- Mobile view
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+![Screenshot (83)](https://github.com/cjgv1809/Twitter-clone-nextjs/assets/57246901/10c91576-765c-4707-9537-1b3b772a7597)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
