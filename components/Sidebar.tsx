@@ -16,10 +16,10 @@ function Sidebar() {
   const { data: session } = useSession()
 
   return (
-    <div className="flex flex-col col-span-2 items-center px-4 md:items-start">
+    <div className="flex flex-col items-center col-span-2 px-4 md:items-start">
       <img
-        className="m-3 h-10 w-10 object-cover"
-        src="https://links.papareact.com/drq"
+        className="object-cover w-10 h-10 m-3"
+        src="icons8-twitter-48.svg"
         alt="Twitter logo"
       />
       <SidebarRow Icon={HomeIcon} title="Home" />

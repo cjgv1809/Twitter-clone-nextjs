@@ -18,7 +18,7 @@ export default NextAuth({
   ],
   theme: {
     // Customize the look and feel of NextAuth
-    logo: "https://links.papareact.com/drq", // URL to an image to use as the logo
+    logo: "https://img.icons8.com/color/240/twitter--v1.png", // URL to an image to use as the logo
     brandColor: "#00ADED", // Color of the top bar
     colorScheme: "light", // Color scheme for the top bar
   },
